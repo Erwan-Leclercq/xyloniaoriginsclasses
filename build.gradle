@@ -20,6 +20,18 @@ sourceSets.main.resources {
 }
 
 repositories {
+    exclusiveContent {
+        forRepository {
+            maven {
+                name = "Modrinth"
+                url = "https://api.modrinth.com/maven"
+            }
+        }
+        // forRepositories(fg.repository) // Uncomment when using ForgeGradle
+        filter {
+            includeGroup "maven.modrinth"
+        }
+    }
 }
 
 base {
@@ -76,6 +88,8 @@ configurations {
 }
 
 dependencies {
+    implementation "maven.modrinth:QaMa6tXQ:L4UUX3FG"
+    implementation "maven.modrinth:hqQqvaa4:PFl7yr35"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
