@@ -90,6 +90,7 @@ configurations {
 dependencies {
     implementation "maven.modrinth:QaMa6tXQ:L4UUX3FG"
     implementation "maven.modrinth:hqQqvaa4:PFl7yr35"
+    implementation "maven.modrinth:XbiLGMMU:Jpcw76rq"
 }
 
 var generateModMetadata = tasks.register("generateModMetadata", ProcessResources) {
