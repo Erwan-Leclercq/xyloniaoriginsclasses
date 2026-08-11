@@ -1,0 +1,9 @@
+{
+  "order": 1,
+  "origins": [
+    "origins:human"
+  ],
+  "gui_title": {
+    "choose_origin": "Choose your classes"
+  }
+}
