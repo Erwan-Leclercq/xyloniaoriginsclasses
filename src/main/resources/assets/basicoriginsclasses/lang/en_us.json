@@ -4,7 +4,12 @@
   "origin.basicoriginsclasses.archer.name": "Archer",
   "origin.basicoriginsclasses.archer.description": "Warrior specialised in distance combat",
 
-  "power.basicoriginsclasses.unlock_archer.name": "Archer skill tree",
-  "power.basicoriginsclasses.unlock_archer.description": "unlock the archer skill tree"
+  "origin.basicoriginsclasses.warrior.name": "Warrior",
+  "origin.basicoriginsclasses.warrior.description": "Warrior specialised in close combat",
 
+  "power.basicoriginsclasses.unlock_archer.name": "Archer skill tree",
+  "power.basicoriginsclasses.unlock_archer.description": "unlock the archer skill tree",
+
+  "power.basicoriginsclasses.unlock_warrior.name": "Warrior skill tree",
+  "power.basicoriginsclasses.unlock_warrior.description": "unlock the warrior skill tree"
 }
