@@ -1,7 +1,7 @@
 {
   "order": 1,
   "origins": [
-    "origins:human"
+    "basicoriginsclasses:archer"
   ],
   "gui_title": {
     "choose_origin": "Choose your classes"
