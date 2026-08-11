@@ -4,6 +4,10 @@
         {
             "type": "origins:execute_command",
             "command": "puffish_skills category unlock @p basicoriginsclasses:archer"
+        },
+        {
+            "type": "origins:execute_command",
+            "command": "say the archer skill tree is unlocked !"
         }
     ]
 }

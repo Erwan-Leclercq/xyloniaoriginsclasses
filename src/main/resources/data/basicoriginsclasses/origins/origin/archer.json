@@ -1,6 +1,6 @@
 {
   "powers": [
-    "#basicorigins:archer"
+    "#basicoriginsclasses:archer"
   ],
   "icon": {
     "id": "minecraft:bow"
