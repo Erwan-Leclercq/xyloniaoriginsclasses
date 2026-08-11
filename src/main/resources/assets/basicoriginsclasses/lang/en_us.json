@@ -1,0 +1,13 @@
+{
+  "itemGroup.basicoriginsclasses": "Example Mod Tab",
+  "block.basicoriginsclasses.example_block": "Example Block",
+  "item.basicoriginsclasses.example_item": "Example Item",
+
+  "basicoriginsclasses.configuration.title": "basicorigins classes Configs",
+  "basicoriginsclasses.configuration.section.basicoriginsclasses.common.toml": "basicorigins classes Configs",
+  "basicoriginsclasses.configuration.section.basicoriginsclasses.common.toml.title": "basicorigins classes Configs",
+  "basicoriginsclasses.configuration.items": "Item List",
+  "basicoriginsclasses.configuration.logDirtBlock": "Log Dirt Block",
+  "basicoriginsclasses.configuration.magicNumberIntroduction": "Magic Number Text",
+  "basicoriginsclasses.configuration.magicNumber": "Magic Number"
+}
