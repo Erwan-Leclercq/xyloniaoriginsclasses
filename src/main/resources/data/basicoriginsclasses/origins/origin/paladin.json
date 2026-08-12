@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsclasses:paladin"
+  ],
+  "icon": {
+    "id": "minecraft:shield"
+  },
+  "order": 4,
+  "impact": 1
+}

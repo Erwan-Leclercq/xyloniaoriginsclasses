@@ -1,0 +1,11 @@
+{
+    "unlocked_by_default": false,
+    "title": "Paladin",
+    "icon": {
+        "type": "item",
+        "data": {
+            "item": "minecraft:shield"
+        }
+    },
+    "background": "minecraft:textures/block/iron_block.png"
+}

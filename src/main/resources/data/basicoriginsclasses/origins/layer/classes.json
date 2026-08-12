@@ -2,7 +2,8 @@
   "order": 1,
   "origins": [
     "basicoriginsclasses:archer",
-    "basicoriginsclasses:warrior"
+    "basicoriginsclasses:warrior",
+    "basicoriginsclasses:paladin"
   ],
   "gui_title": {
     "choose_origin": "Choose your classe"
