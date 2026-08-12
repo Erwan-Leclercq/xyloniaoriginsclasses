@@ -1,0 +1,11 @@
+{
+    "unlocked_by_default": false,
+    "title": "Archer",
+    "icon": {
+        "type": "item",
+        "data": {
+            "item": "minecraft:amethyst_shard"
+        }
+    },
+    "background": "minecraft:textures/block/amethyst_block.png"
+}

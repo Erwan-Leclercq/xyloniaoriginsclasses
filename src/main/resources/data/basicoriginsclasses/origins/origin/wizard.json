@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsclasses:wizard"
+  ],
+  "icon": {
+    "id": "minecraft:amethyst_shard"
+  },
+  "order": 4,
+  "impact": 1
+}

@@ -8,7 +8,10 @@
   "origin.basicoriginsclasses.warrior.description": "Warrior specialised in close combat",
 
   "origin.basicoriginsclasses.paladin.name": "Paladin",
-  "origin.basicoriginsclasses.paladin.description": "Paladin specialised in close combat and spell",
+  "origin.basicoriginsclasses.paladin.description": "Warrior specialised in close combat and spell",
+
+  "origin.basicoriginsclasses.wizard.name": "Wizard",
+  "origin.basicoriginsclasses.wizard.description": "Warrior specialised in spell",
 
   "power.basicoriginsclasses.unlock_archer.name": "Archer skill tree",
   "power.basicoriginsclasses.unlock_archer.description": "unlock the archer skill tree",
@@ -17,5 +20,8 @@
   "power.basicoriginsclasses.unlock_warrior.description": "unlock the warrior skill tree",
 
   "power.basicoriginsclasses.unlock_paladin.name": "Paladin skill tree",
-  "power.basicoriginsclasses.unlock_paladin.description": "unlock the paladin skill tree"
+  "power.basicoriginsclasses.unlock_paladin.description": "unlock the paladin skill tree",
+
+  "power.basicoriginsclasses.unlock_wizard.name": "Wizard skill tree",
+  "power.basicoriginsclasses.unlock_wizard.description": "unlock the wizard skill tree"
 }
