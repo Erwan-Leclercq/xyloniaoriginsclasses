@@ -13,6 +13,9 @@
   "origin.basicoriginsclasses.wizard.name": "Wizard",
   "origin.basicoriginsclasses.wizard.description": "Warrior specialised in spell",
 
+  "origin.basicoriginsclasses.rogue.name": "Rogue",
+  "origin.basicoriginsclasses.rogue.description": "Warrior specialised in agility and discretion",
+
   "power.basicoriginsclasses.unlock_archer.name": "Archer skill tree",
   "power.basicoriginsclasses.unlock_archer.description": "unlock the archer skill tree",
 
@@ -23,5 +26,8 @@
   "power.basicoriginsclasses.unlock_paladin.description": "unlock the paladin skill tree",
 
   "power.basicoriginsclasses.unlock_wizard.name": "Wizard skill tree",
-  "power.basicoriginsclasses.unlock_wizard.description": "unlock the wizard skill tree"
+  "power.basicoriginsclasses.unlock_wizard.description": "unlock the wizard skill tree",
+
+  "power.basicoriginsclasses.unlock_rogue.name": "Rogue skill tree",
+  "power.basicoriginsclasses.unlock_rogue.description": "unlock the rogue skill tree"
 }

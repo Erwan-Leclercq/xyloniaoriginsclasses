@@ -1,0 +1,11 @@
+{
+    "unlocked_by_default": false,
+    "title": "Rogue",
+    "icon": {
+        "type": "item",
+        "data": {
+            "item": "minecraft:gold_nugget"
+        }
+    },
+    "background": "minecraft:textures/block/deepslate.png"
+}

@@ -4,7 +4,8 @@
     "basicoriginsclasses:archer",
     "basicoriginsclasses:warrior",
     "basicoriginsclasses:paladin",
-    "basicoriginsclasses:wizard"
+    "basicoriginsclasses:wizard",
+    "basicoriginsclasses:rogue"
   ],
   "gui_title": {
     "choose_origin": "Choose your classe"

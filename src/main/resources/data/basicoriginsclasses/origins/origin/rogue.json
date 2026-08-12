@@ -1,0 +1,10 @@
+{
+  "powers": [
+    "#basicoriginsclasses:rogue"
+  ],
+  "icon": {
+    "id": "minecraft:gold_nugget"
+  },
+  "order": 4,
+  "impact": 1
+}
