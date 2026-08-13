@@ -1,1 +1,26 @@
-{}
+{
+	"6uvo7nt558ztbutp": {
+		"definition": "melee_damage+5%",
+		"x": -32,
+		"y": -32,
+		"root": true
+	},
+	"zopnxuxxytwzj8hi": {
+		"definition": "stamina+5%",
+		"x": -32,
+		"y": 32,
+		"root": true
+	},
+	"b6i17b7hyjwoovhn": {
+		"definition": "resistance+1%",
+		"x": 32,
+		"y": 32,
+		"root": true
+	},
+	"ue7jspnrarfl7k54": {
+		"definition": "jump+5%",
+		"x": 32,
+		"y": -32,
+		"root": true
+	}
+}
