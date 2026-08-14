@@ -2,7 +2,7 @@
   "layer.basicoriginsclasses.classes.name" : "Classe",
 
   "origin.basicoriginsclasses.archer.name": "Archer",
-  "origin.basicoriginsclasses.archer.description": "Warrior specialised in distance combat",
+  "origin.basicoriginsclasses.archer.description": "Warrior specialised in ranged fight",
 
   "origin.basicoriginsclasses.warrior.name": "Warrior",
   "origin.basicoriginsclasses.warrior.description": "Warrior specialised in close combat",
@@ -17,17 +17,17 @@
   "origin.basicoriginsclasses.rogue.description": "Warrior specialised in agility and discretion",
 
   "power.basicoriginsclasses.unlock_archer.name": "Archer skill tree",
-  "power.basicoriginsclasses.unlock_archer.description": "unlock the archer skill tree",
+  "power.basicoriginsclasses.unlock_archer.description": "Unlock the archer skill tree",
 
   "power.basicoriginsclasses.unlock_warrior.name": "Warrior skill tree",
-  "power.basicoriginsclasses.unlock_warrior.description": "unlock the warrior skill tree",
+  "power.basicoriginsclasses.unlock_warrior.description": "Unlock the warrior skill tree",
 
   "power.basicoriginsclasses.unlock_paladin.name": "Paladin skill tree",
-  "power.basicoriginsclasses.unlock_paladin.description": "unlock the paladin skill tree",
+  "power.basicoriginsclasses.unlock_paladin.description": "Unlock the paladin skill tree",
 
   "power.basicoriginsclasses.unlock_wizard.name": "Wizard skill tree",
-  "power.basicoriginsclasses.unlock_wizard.description": "unlock the wizard skill tree",
+  "power.basicoriginsclasses.unlock_wizard.description": "Unlock the wizard skill tree",
 
   "power.basicoriginsclasses.unlock_rogue.name": "Rogue skill tree",
-  "power.basicoriginsclasses.unlock_rogue.description": "unlock the rogue skill tree"
+  "power.basicoriginsclasses.unlock_rogue.description": "Unlock the rogue skill tree"
 }
