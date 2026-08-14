@@ -1,1 +1,93 @@
-{}
+{
+    "melee_damage+5%": {
+		"title": "+5% Melee Damage",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "strength"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.melee_damage",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+    "stamina+5%": {
+		"title": "+5% Stamina",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "saturation"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.stamina",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+    "resistance+1%": {
+		"title": "+1% Resistance",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "resistance"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.resistance",
+					"value": 0.01,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	},
+
+    "jump+5%": {
+		"title": "+5% Jump",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "jump_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "puffish_skills:player.jump",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		]
+	}
+}

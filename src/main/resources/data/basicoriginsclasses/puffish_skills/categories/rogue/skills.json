@@ -1,1 +1,14 @@
-{}
+{
+	"9ojffkbogvfew0w6": {
+		"definition": "sprint_speed+5%",
+		"x": -32,
+		"y": -32,
+		"root": true
+	},
+	"is62lgcw9g9lksoc": {
+		"definition": "luck+0.25",
+		"x": -32,
+		"y": 32,
+		"root": true
+	}
+}

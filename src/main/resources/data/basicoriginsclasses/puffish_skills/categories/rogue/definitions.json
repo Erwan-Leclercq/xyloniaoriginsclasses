@@ -1,1 +1,41 @@
-{}
+{
+    "sprint_speed+5%": {
+        "title": "+5% Sprint Speed",
+        "icon": {
+            "type": "effect",
+            "data": {
+                "effect": "speed"
+            }
+        },
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_skills:sprinting_speed",
+                    "value": 0.05,
+                    "operation": "multiply_total"
+                }
+            }
+        ]
+    },
+
+    "luck+0.25": {
+		"title": "+0.25 Luck",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "luck"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.luck",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		]
+	}
+}

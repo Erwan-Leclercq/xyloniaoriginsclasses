@@ -1,1 +1,26 @@
-{}
+{
+	"hxfkhf7zz4ilcsrg": {
+		"definition": "bow_damage+1",
+		"x": -32,
+		"y": 32,
+		"root": true
+	},
+	"5mkifl7qdvrbxmns": {
+		"definition": "sprint_speed+5%",
+		"x": -32,
+		"y": -32,
+		"root": true
+	},
+	"e6qtocwzq515dfcl": {
+		"definition": "bow_damage+2",
+		"x": 32,
+		"y": 32,
+		"root": true
+	},
+	"vt4j8u3gj1ctpbhg": {
+		"definition": "stamina+5%",
+		"x": 32,
+		"y": -32,
+		"root": true
+	}
+}
