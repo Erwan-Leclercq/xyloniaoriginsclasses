@@ -7,7 +7,13 @@
         },
         {
             "type": "origins:execute_command",
-            "command": "say the rogue skill tree is unlocked !"
+            "command": "say the rogue skill tree is unlocked press k to view it"
+        }
+    ],
+    "entity_action_lost": [
+        {
+            "type": "origins:execute_command",
+            "command": "puffish_skills category lock @p basicoriginsclasses:rogue"
         }
     ]
 }
