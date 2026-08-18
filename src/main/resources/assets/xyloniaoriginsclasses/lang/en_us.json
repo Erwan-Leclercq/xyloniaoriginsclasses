@@ -1,33 +1,33 @@
 {
-  "layer.basicoriginsclasses.classes.name" : "Classe",
+  "layer.xyloniaoriginsclasses.classes.name" : "Classe",
 
-  "origin.basicoriginsclasses.archer.name": "Archer",
-  "origin.basicoriginsclasses.archer.description": "Warrior specialised in ranged fight",
+  "origin.xyloniaoriginsclasses.archer.name": "Archer",
+  "origin.xyloniaoriginsclasses.archer.description": "Warrior specialised in ranged fight",
 
-  "origin.basicoriginsclasses.warrior.name": "Warrior",
-  "origin.basicoriginsclasses.warrior.description": "Warrior specialised in close combat",
+  "origin.xyloniaoriginsclasses.warrior.name": "Warrior",
+  "origin.xyloniaoriginsclasses.warrior.description": "Warrior specialised in close combat",
 
-  "origin.basicoriginsclasses.paladin.name": "Paladin",
-  "origin.basicoriginsclasses.paladin.description": "Warrior specialised in close combat and spell",
+  "origin.xyloniaoriginsclasses.paladin.name": "Paladin",
+  "origin.xyloniaoriginsclasses.paladin.description": "Warrior specialised in close combat and spell",
 
-  "origin.basicoriginsclasses.wizard.name": "Wizard",
-  "origin.basicoriginsclasses.wizard.description": "Warrior specialised in spell",
+  "origin.xyloniaoriginsclasses.wizard.name": "Wizard",
+  "origin.xyloniaoriginsclasses.wizard.description": "Warrior specialised in spell",
 
-  "origin.basicoriginsclasses.rogue.name": "Rogue",
-  "origin.basicoriginsclasses.rogue.description": "Warrior specialised in agility and discretion",
+  "origin.xyloniaoriginsclasses.rogue.name": "Rogue",
+  "origin.xyloniaoriginsclasses.rogue.description": "Warrior specialised in agility and discretion",
 
-  "power.basicoriginsclasses.unlock_archer.name": "Archer skill tree",
-  "power.basicoriginsclasses.unlock_archer.description": "Unlock the archer skill tree",
+  "power.xyloniaoriginsclasses.unlock_archer.name": "Archer skill tree",
+  "power.xyloniaoriginsclasses.unlock_archer.description": "Unlock the archer skill tree",
 
-  "power.basicoriginsclasses.unlock_warrior.name": "Warrior skill tree",
-  "power.basicoriginsclasses.unlock_warrior.description": "Unlock the warrior skill tree",
+  "power.xyloniaoriginsclasses.unlock_warrior.name": "Warrior skill tree",
+  "power.xyloniaoriginsclasses.unlock_warrior.description": "Unlock the warrior skill tree",
 
-  "power.basicoriginsclasses.unlock_paladin.name": "Paladin skill tree",
-  "power.basicoriginsclasses.unlock_paladin.description": "Unlock the paladin skill tree",
+  "power.xyloniaoriginsclasses.unlock_paladin.name": "Paladin skill tree",
+  "power.xyloniaoriginsclasses.unlock_paladin.description": "Unlock the paladin skill tree",
 
-  "power.basicoriginsclasses.unlock_wizard.name": "Wizard skill tree",
-  "power.basicoriginsclasses.unlock_wizard.description": "Unlock the wizard skill tree",
+  "power.xyloniaoriginsclasses.unlock_wizard.name": "Wizard skill tree",
+  "power.xyloniaoriginsclasses.unlock_wizard.description": "Unlock the wizard skill tree",
 
-  "power.basicoriginsclasses.unlock_rogue.name": "Rogue skill tree",
-  "power.basicoriginsclasses.unlock_rogue.description": "Unlock the rogue skill tree"
+  "power.xyloniaoriginsclasses.unlock_rogue.name": "Rogue skill tree",
+  "power.xyloniaoriginsclasses.unlock_rogue.description": "Unlock the rogue skill tree"
 }
