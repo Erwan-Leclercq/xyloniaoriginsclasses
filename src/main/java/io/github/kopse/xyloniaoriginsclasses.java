@@ -1,16 +1,16 @@
-package com.example.examplemod;
+package io.github.kopse;
 
 import org.slf4j.Logger;
 import com.mojang.logging.LogUtils;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.common.Mod;
 
-@Mod(basicoriginsclasses.MODID)
-public class basicoriginsclasses {
-    public static final String MODID = "basicoriginsclasses";
+@Mod(xyloniaoriginsclasses.MODID)
+public class xyloniaoriginsclasses {
+    public static final String MODID = "xyloniaoriginsclasses";
     public static final Logger LOGGER = LogUtils.getLogger();
 
-    public basicoriginsclasses(IEventBus modEventBus) {
+    public xyloniaoriginsclasses(IEventBus modEventBus) {
         LOGGER.info("basicorigins classes initializing");
     }
 }
