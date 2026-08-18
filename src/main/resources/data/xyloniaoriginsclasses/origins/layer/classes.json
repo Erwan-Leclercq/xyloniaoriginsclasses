@@ -1,11 +1,11 @@
 {
   "order": 1,
   "origins": [
-    "basicoriginsclasses:archer",
-    "basicoriginsclasses:warrior",
-    "basicoriginsclasses:paladin",
-    "basicoriginsclasses:wizard",
-    "basicoriginsclasses:rogue"
+    "xyloniaoriginsclasses:archer",
+    "xyloniaoriginsclasses:warrior",
+    "xyloniaoriginsclasses:paladin",
+    "xyloniaoriginsclasses:wizard",
+    "xyloniaoriginsclasses:rogue"
   ],
   "gui_title": {
     "choose_origin": "Choose your classe"
